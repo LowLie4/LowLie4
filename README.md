@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LowLie4
 - 👀 I’m interested in you?
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 ASM, CSS, JS, HTML, Java, Python, C/C++, Lua.
 - 📫 How to reach me : Discord : -LowLie-#4398
 
 <!---
